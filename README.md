@@ -1,0 +1,2 @@
+# warehouse_web
+仓储库存管理信息系统基于springboot以及vue开发的前端分离的项目。 该系统分为web端以及app端,web端使用 RuoYi框架进行二次开发；app端代码使用uniapp开发。可用做仓库管理系统、仓储管理系统、云仓库毕业设计
